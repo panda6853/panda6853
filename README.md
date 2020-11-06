@@ -1,13 +1,9 @@
-# Hey, there~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![Visitor Count](https://profile-counter.glitch.me/panda6853/count.svg) √î$î†ø®$
+# Hey, there~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![Visitor Count](https://profile-counter.glitch.me/panda6853/count.svg) Visitors
 ## &#x1f4c8; GitHub Stats
 
 
 <a href="https://github.com/panda6853/panda6853" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=panda6853&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="208px"/>
-</a>
-
-<a href="https://github.com/panda6853/panda6853" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=panda6853&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="panda6853's GitHub Stats"/>
 </a>
 
 
